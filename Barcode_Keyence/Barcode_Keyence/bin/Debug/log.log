@@ -1,0 +1,40 @@
+Data will be written to C:\Users\TH303898\Desktop   at20150911064755612
+
+Images will be stored to C:\Users\TH303898\Desktop   at20150911064759925
+
+Date Time Monitor Started...   at11-Sep-2015 06:48:01:529
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 251
+   at 20150911064803053
+Data will be written to C:\Users\TH303898\Desktop   at20150911065027740
+
+Images will be stored to C:\Users\TH303898\Desktop   at20150911065031712
+
+Date Time Monitor Started...   at11-Sep-2015 06:50:32:795
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 251
+   at 20150911065033849
